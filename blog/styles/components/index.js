@@ -1,0 +1,7 @@
+import './Header.less'
+import './List.less'
+import './Author.less'
+import './Advert.less'
+import './Footer.less'
+import './Footer.less'
+import './Detailed.less'
